@@ -1,12 +1,18 @@
-# Realidade Virtual
+# Realidade Virtual Aumentada
 
 Atividades desenvolvidas na disciplina de Computação Gráfica na FURB/DSC/BCC.  
-Favor utilizar as respectivas pastas para postar os trabalhos de cada unidade.  
 
 Alunos:  
 
 - Computação:  
-- Pedagogia:  
+
+  Cristian Yuri Machota  
+  Érico Henrique Kreusch  
+  Guilherme dos Santos  
+  Henrique Feliciano de Azevedo  
+  Lucas Henrique Wagner  
+  Marcella Coelho Brito Nunes  
+  Vinicius Rafael Da Silveira  
 
 Assunto:  
 
